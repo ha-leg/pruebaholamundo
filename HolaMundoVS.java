@@ -7,6 +7,7 @@ public class holamundovs {
         System.out.println("git pull");
         System.out.println("cuarto commit");
         System.out.println("solucionar password");
+        System.out.println("sexto commit");
     }
 
 
